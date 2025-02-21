@@ -1,0 +1,11 @@
+package libraryManagmentSystem;
+import java.util.*;
+
+public class LibraryManagement {
+
+	public static void main(String[] args) {
+		System.out.println("hi");
+
+	}
+
+}
